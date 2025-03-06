@@ -48,3 +48,6 @@ Your **Heltec V2** is now running **Meshtastic 2.5.22**! If you encounter any is
 
 For more details about Meshtastic, visit the official repository: [Meshtastic on GitHub](https://github.com/meshtastic/firmware).
 
+![Heltec-V2 Online Screen](https://github.com/psdurco/Meshtastic.2.5.22-Heltec-v2/blob/main/images/heltec-v2-online.jpeg?raw=true)
+![Heltec-V2 Case DIY](https://github.com/psdurco/Meshtastic.2.5.22-Heltec-v2/blob/main/images/case-heltec-v2.jpeg?raw=true)
+![Heltec-V2 On Power Bank](https://github.com/psdurco/Meshtastic.2.5.22-Heltec-v2/blob/main/images/heltec-v2-on-power-bank.jpeg?raw=true)
